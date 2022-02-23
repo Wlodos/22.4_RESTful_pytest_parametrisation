@@ -1,0 +1,9 @@
+
+Calling function get_api_key('sottestoss@gmail.com', 'password')
+Headers = {'email': 'sottestoss@gmail.com', 'password': 'password'}
+Path params = None
+Query params = None
+Request body = None
+--------------------------RESPONSE---------------
+Status = 200
+Response body = {'key': 'f2015bb7cbe055c5024827c555bdcd334a0c7342dde42f9e2781e504'}
